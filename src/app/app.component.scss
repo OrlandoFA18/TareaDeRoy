@@ -134,4 +134,13 @@
 .main{
     grid-area: contenido;
     background-color: red;
+    .Contenido-card{
+        width: 2rem;
+        height: 5rem;
+        img{
+            width: 3rem;
+            height: 5rem;
+            border-radius: 10px;
+        }
+    }
 }
